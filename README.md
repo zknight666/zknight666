@@ -4,8 +4,11 @@
 
 ## 📝 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zknight666&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=zknight666&show_icons=true">
+
+[![](https://raw.githubusercontent.com/zknight666/github-profile-card-update/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/zknight666/github-profile-card-update/master/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/zknight666/github-profile-card-update/master/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/zknight666/github-profile-card-update/master/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/zknight666/github-profile-card-update/master/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 ## 🔧 Skills & Tools
 
