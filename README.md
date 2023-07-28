@@ -1,4 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=zknight666%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=My%20own%20tree%20of%20knowledge&descAlignY=51&descAlign=62)
+<img src="https://github.com/zknight666/zknight666/blob/main/Zknight666_Github_QRCode.png" width="300">
+
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzknight666&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 
