@@ -47,3 +47,11 @@
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+
+### 🏆 portpolio
+#### 1. toy project matching site
+#### 2. PC carrotmarket site
+![portpolio](https://veiled-jay-0c2.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb97b0760-6708-4911-b250-3e29213cfd2a%2Fportpolio.png?table=block&id=378bfad9-fffc-471e-9776-263eda5e42fd&spaceId=5989bf22-29e0-4423-b8aa-9d2d5f3b5c6b&width=2000&userId=&cache=v2)
+<br>
+https://ncamp.magicecole.com/Home/Project/0f897457-d327-4920-adef-aa3c48fbd731?page=1&groupId=0
+https://github.com/ksqrt/carrotMarket
