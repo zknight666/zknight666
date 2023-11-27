@@ -48,6 +48,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
 
+<!--
 ### 🏆 portpolio
 #### 1. toy project matching site
 #### 2. PC carrotmarket site
@@ -55,3 +56,5 @@
 <br>
 https://ncamp.magicecole.com/Home/Project/0f897457-d327-4920-adef-aa3c48fbd731?page=1&groupId=0
 https://github.com/ksqrt/carrotMarket
+
+-->
